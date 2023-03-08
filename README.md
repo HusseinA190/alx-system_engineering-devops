@@ -1,1 +1,2 @@
-# alx-system_engineering-devops
+#!bin/bash
+this my new repo for shell basic commands 
